@@ -1,0 +1,29 @@
+= ugly.emacs
+
+My emacs rc files.
+
+== Features
+
+* mostly focused on ruby development
+
+== Installation
+
+By hand at this moment.
+  
+== Requirements
+
+emacs 23
+
+== Issues
+
+* there is no easy way for me to update with git because project and repo are different directories
+
+== Author
+
+* {Michael Garriss}[http://github.com/mgarriss] <mgarriss at gmail.com>
+
+== License
+
+Apache 2.0, See the file LICENSE
+
+Copyright (c) 2011 Michael Garriss

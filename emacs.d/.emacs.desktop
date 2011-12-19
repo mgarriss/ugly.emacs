@@ -1,0 +1,73 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Apr 19 15:14:24 2011
+;; Desktop file format version 206
+;; Emacs version 23.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list '("~/develop/demandbase/admin"))
+(setq search-ring nil)
+(setq regexp-search-ring '("hyp" "open"))
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/." "/Users/mgarriss/.emacs.d/ugly/ugly-settings.el" "/Users/mgarriss/.emacs.d/ugly/ugly-bindings.el" "~/.emacs" "/Users/mgarriss/.emacs.d/ugly/ugly-settings.el" "~/.emacs.d/." "/Users/mgarriss/.emacs.d/abbrev_defs" "/Users/mgarriss/.zshrc"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/mgarriss/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  nil
+  960
+  '(860 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mgarriss/.emacs.d/ugly/ugly-settings.el"
+  "ugly-settings.el"
+  'emacs-lisp-mode
+  nil
+  1185
+  '(978 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mgarriss/.emacs.d/ugly/ugly-bindings.el"
+  "ugly-bindings.el"
+  'emacs-lisp-mode
+  nil
+  955
+  '(3088 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mgarriss/.emacs.d/ugly/ugly-functions.el"
+  "ugly-functions.el"
+  'emacs-lisp-mode
+  nil
+  34
+  '(23 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mgarriss/.zshrc"
+  ".zshrc"
+  'sh-mode
+  nil
+  5616
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (buffer-file-coding-system . undecided-unix)))
+
